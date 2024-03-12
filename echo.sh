@@ -11,3 +11,4 @@ then
         add $1 $2
 else
         echo "wrong parameter"
+fi
